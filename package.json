@@ -1,0 +1,18 @@
+{
+  "name": "konofi-tip-widget",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "ethers": "^6.6.2",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "wagmi": "^1.6.6",
+    "viem": "^1.22.1"
+  }
+}
